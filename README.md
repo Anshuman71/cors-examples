@@ -22,3 +22,9 @@ This repository contains Vercel projects using different frameworks, all using C
 - https://astro-cors.vercel.app/vercel-config-cors
 - https://astro-cors.vercel.app/mw-cors
 - https://astro-cors.vercel.app/api
+
+### Flask
+
+- https://flask-cors-one.vercel.app/api/vercel-config-cors
+- https://flask-cors-one.vercel.app/api/mw-cors
+- https://flask-cors-one.vercel.app/api/cors
